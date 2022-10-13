@@ -1,6 +1,6 @@
 {
   "name": "@tadayosi/hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say Hello from NPM",
   "type": "module",
   "main": "index.js",
