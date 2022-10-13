@@ -2,6 +2,7 @@
   "name": "@tadayosi/hello",
   "version": "1.0.0",
   "description": "Say Hello from NPM",
+  "type": "module",
   "main": "index.js",
   "repository": "git@github.com:tadayosi/npm-hello.git",
   "author": "Tadayoshi Sato",
